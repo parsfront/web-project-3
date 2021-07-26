@@ -91,6 +91,7 @@ nav .logo {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 10rem;
           flex: 1 1 10rem;
+  pointer-events: none;
 }
 
 nav .logo h1 {

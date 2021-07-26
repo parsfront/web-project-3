@@ -12,6 +12,7 @@ nav {
   .logo {
     @include flex(flex-start, center, row);
     flex: 1 1 10rem;
+    pointer-events: none;
 
     h1 {
       margin: 2rem;
